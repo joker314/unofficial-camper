@@ -1,0 +1,23 @@
+{
+  "name": "freecodecamp-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot designed for Discord servers not affiliated with freeCodeCamp but wish to discuss it. It is rich in features, including moderation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "freecodecamp"
+  ],
+  "author": "joker314",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "enmap": "^2.0.4",
+    "enmap-level": "^2.0.2",
+    "he": "^1.1.1",
+    "request": "^2.85.0"
+  }
+}
